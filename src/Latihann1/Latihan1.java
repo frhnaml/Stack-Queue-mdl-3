@@ -1,6 +1,6 @@
 package Latihann1;
 import java.util.Stack;
-
+//p
 public class Latihan1 {
     public static void main(String[] args) {
         Stack s = new Stack<>();
